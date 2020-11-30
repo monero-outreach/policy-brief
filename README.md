@@ -6,6 +6,6 @@
 
 If you have suggestions for future edits, please [create a new issue](https://github.com/xmrhaelan/policy-brief/issues).
 
-Discover how to locate and contact your elected representatives [here](https://github.com/xmrhaelan/policy-brief/blob/main/find-your-elected-representative).
+Discover how to locate and contact your elected representatives [here](https://github.com/xmrhaelan/policy-brief/blob/main/find-your-elected-representative.md).
 
-For sample letters that you can use or customize, we have provided one with [mild wording](https://github.com/xmrhaelan/policy-brief/blob/main/sample-letter-1) and one with [stronger wording](https://github.com/xmrhaelan/policy-brief/blob/main/sample-letter-2).
+For sample letters that you can use or customize, we have provided one with [mild wording](https://github.com/xmrhaelan/policy-brief/blob/main/sample-letter-1.md) and one with [stronger wording](https://github.com/xmrhaelan/policy-brief/blob/main/sample-letter-2.md).
