@@ -1,22 +1,11 @@
 # Open Source Policy Brief: A Living Tool to Help Monero Advocates Interact With Their Elected Officials
 
-## Suggested Titles When Sharing Externally
-#### 
+### Monero Outreach created this project as a tool for citizens of the world to advocate for Monero to their local, regional, and national elected representatives. This document will be translated in the future for most major languages. 
 
-### Summary
-Insert summary here when document is complete.
+## Read the Policy Brief [here](https://github.com/xmrhaelan/policy-brief/blob/main/brief.md).
 
-### Introduction
-300-500 words
+If you have suggestions for future edits, please [create a new issue](https://github.com/xmrhaelan/policy-brief/issues).
 
-### Existing Regulation Framework
-500-700 words
+Discover how to locate and contact your elected representatives [here](https://github.com/xmrhaelan/policy-brief/blob/main/find-your-elected-representative).
 
-### Consumer Data Protection: Privacy Technology & Financial Fungibility
-500-700 words
-
-### Recommendations & Further Reading
-3-7 recommendations for policy and list of 3-5 sources for further reading (we could also develop an extended Policy Report and include here).
-
-### References
-See references file in the repo.
+For sample letters that you can use or customize, we have provided one with [mild wording](https://github.com/xmrhaelan/policy-brief/blob/main/sample-letter-1) and one with [stronger wording](https://github.com/xmrhaelan/policy-brief/blob/main/sample-letter-2).
