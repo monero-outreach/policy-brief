@@ -1,4 +1,4 @@
-# Data-Protecting Cryptocurrency Policy Brief
+# Data-Protection Cryptocurrency Policy Brief
 
 
 ## Executive Summary: 
