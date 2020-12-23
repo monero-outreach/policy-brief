@@ -11,7 +11,7 @@ While a sign of global adoption, these regulations toward cryptocurrency also ca
 ### This policy brief aims to serve as a tool for the world to understand and advocate for the right to consumer-data-protecting digital currency around the globe. It is paramount that elected officials who are serving their consituents understand these risks and work to enact legislation to protect them and safegaurd their individual and collective rights to protect their private data and personal finances from harm. 
 
 ### We have designed this to be a resource for anyone interested in safegaurding data-protection cryptocurrency. Whether you are a legislator, lobbyist, or individual citizen who wants to advocate to their local, regional, and national elected representatives - there is information and resources here that will remain updated and allow you to get a comprehensive understanding of the issues, what's been done to address them, and what you can do to continue advocating for the safety and freedom of everyone. 
-This document will be translated in the future for most major languages. 
+This project will be translated in the future for most major languages. 
 
 ## Access the free, open-source Policy Brief [here](https://github.com/monero-outreach/policy-brief/blob/main/brief.md). 
 
