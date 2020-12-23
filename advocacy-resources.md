@@ -18,6 +18,6 @@ Australian Parliament: https://www.aph.gov.au/Senators_and_Members/Members
 
 
 
-If you have suggestions for future edits to this document, we invite you to [create a new issue](https://github.com/monero-outreach/policy-brief/issues) or [submit a pull request](https://github.com/monero-outreach/policy-brief/pulls)
+#### _If you have suggestions for future edits to this document, we invite you to [create a new issue](https://github.com/monero-outreach/policy-brief/issues) or [submit a pull request](https://github.com/monero-outreach/policy-brief/pulls)._
 
 
