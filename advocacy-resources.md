@@ -1,18 +1,23 @@
-## _Resources for Advocacy & Organizing_
+# _Resources for Advocacy & Organizing_
 Examples:
 - https://www.stopfinancialsurveillance.org/
 - https://coincenter.good.do/fincen/fincen-email/
 - https://www.monerooutreach.org/stories/example-advocacy-letter-to-the-us-treasury.html
 - 
 
-## _Contact Information by Jurisdiction_
+# _Contact Information by Jurisdiction_
 
 ### Search by Geography: http://archive.ipu.org/parline-e/ToolboxParline.asp
 
-## Direct Links by Jurisdiction
+### Direct Links by Jurisdiction
 
 United States House of Representatives: https://www.house.gov/representatives/find-your-representative
 
 Australian Parliament: https://www.aph.gov.au/Senators_and_Members/Members
+
+
+
+
+If you have suggestions for future edits to this document, we invite you to [create a new issue](https://github.com/monero-outreach/policy-brief/issues) or [submit a pull request](https://github.com/monero-outreach/policy-brief/pulls)
 
 
