@@ -19,3 +19,5 @@ Target 3-7 recommendations for policymakers. *Use existing policy work to help g
 
 ### References & Further Reading
 *Highlight and list 3-5 sources for further reading up front, and link to references and policy monitoring sections of repo (we could also develop an extended Policy Report and include here).*
+
+#### _If you have suggestions for future edits to this document, we invite you to [create a new issue](https://github.com/monero-outreach/policy-brief/issues) or [submit a pull request](https://github.com/monero-outreach/policy-brief/pulls)._
