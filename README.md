@@ -15,8 +15,8 @@ This document will be translated in the future for most major languages.
 
 ## Access the free, open-source Policy Brief [here](https://github.com/monero-outreach/policy-brief/blob/main/brief.md). 
 
-If you have suggestions for future edits, please [create a new issue](https://github.com/monero-outreach/policy-brief/issues) or [submit a pull request](https://github.com/monero-outreach/policy-brief/pulls)
+If you have suggestions for future edits to this document, we invite you to [create a new issue](https://github.com/monero-outreach/policy-brief/issues) or [submit a pull request](https://github.com/monero-outreach/policy-brief/pulls)
 
-Discover how to locate and contact your elected representatives [here](https://github.com/monero-outreach/policy-brief/blob/main/find-your-elected-representative.md).
+Discover advocacy resources and how to locate and contact your elected representatives [here](https://github.com/monero-outreach/policy-brief/blob/main/advocacy-resources.md).
 
 For sample letters that individuals can use or customize to advocate to elected officials, we have provided one with [mild wording](https://github.com/monero-outreach/policy-brief/blob/main/sample-letter-1.md) and one with [stronger wording](https://github.com/monero-outreach/policy-brief/blob/main/sample-letter-2.md).
