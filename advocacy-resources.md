@@ -16,7 +16,7 @@ United States House of Representatives: https://www.house.gov/representatives/fi
 
 Australian Parliament: https://www.aph.gov.au/Senators_and_Members/Members
 
-
+European Commission: https://ec.europa.eu/info/about-european-commission/contact_en
 
 
 #### _If you have suggestions for future edits to this document, we invite you to [create a new issue](https://github.com/monero-outreach/policy-brief/issues) or [submit a pull request](https://github.com/monero-outreach/policy-brief/pulls)._
