@@ -4,7 +4,7 @@ Examples:
 - https://www.stopfinancialsurveillance.org/
 - https://coincenter.good.do/fincen/fincen-email/
 - https://www.monerooutreach.org/stories/example-advocacy-letter-to-the-us-treasury.html
-- 
+- https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12089-Financial-services-EU-regulatory-framework-for-crypto-assets/F1379841
 
 # _Contact Information by Jurisdiction_
 
